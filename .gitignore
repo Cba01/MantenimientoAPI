@@ -1,0 +1,16 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Publish outputs
+publish/
